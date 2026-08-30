@@ -1,5 +1,6 @@
 # NIP-Movie_Ticket_Booking
 Project Documentation & Overview
+
 Project Name: Ticketing and Booking System (Pega App Studio)
 
 Description: Developed an end-to-end ticketing and booking workflow including customer information collection, verification, payment processing, ticket generation, and completion stages.
